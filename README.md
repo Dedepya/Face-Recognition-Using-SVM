@@ -16,3 +16,6 @@ A large number of practical applications for face detection exist and contempora
 # Dataset
 Real-time images were gathered from the VNR VJIET institute's students, professors, HOD's, Dean.
 ![photo-output](https://user-images.githubusercontent.com/48832097/192754633-6afe22e0-6f7f-4f9d-a2b0-1a0fa43bccf1.jpg)
+
+# SVM Classifier
+![image](https://user-images.githubusercontent.com/48832097/192755289-7c3ee5bc-8789-40e3-b27c-fe0768e4b434.png)
