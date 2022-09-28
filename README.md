@@ -21,4 +21,4 @@ Real-time images were gathered from the VNR VJIET institute's students, professo
 ![image](https://user-images.githubusercontent.com/48832097/192755289-7c3ee5bc-8789-40e3-b27c-fe0768e4b434.png)
 
 # Output
-A user interface which recognises the face.
+A user interface was developed which recognises the face.
