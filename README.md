@@ -14,5 +14,5 @@ A large number of practical applications for face detection exist and contempora
 - Scikit learn 
 
 # Dataset
-Real-time images of students, professors, HOD, dean were gathered from the VNR VJIET institute.
+Real-time images were gathered from the VNR VJIET institute's students, professors, HOD's, Dean.
 ![photo-output](https://user-images.githubusercontent.com/48832097/192754633-6afe22e0-6f7f-4f9d-a2b0-1a0fa43bccf1.jpg)
